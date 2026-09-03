@@ -65,10 +65,8 @@ Example:
 ```text
 Host: example.com
 Port: 443
-CN:   example.com
-SAN:
-  example.com
-  www.example.com
+CN: example.com
+SAN: example.com, www.example.com
 ```
 
 ## Certificate Validation
